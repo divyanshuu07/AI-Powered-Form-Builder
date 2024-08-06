@@ -1,18 +1,33 @@
 📌 - AI-Powered Form Creation Tool
 
-📌 - This is the AI-Powered Form Builder. Welcome! This solution uses cutting-edge AI technologies to streamline and expedite the form creation process. To realize its maximum potential, take these actions:
+📌 -  This is the AI-Powered Form Builder. Welcome! 
+      
+      This solution uses cutting-edge AI technologies to streamline and expedite the form creation. 
+      To realize its maximum potential, take these actions:
 
-📌 - Install: To incorporate the AI-Powered Form Builder into your environment, follow the installation instructions that have been supplied. Make that all dependencies are configured correctly.
+📌 -  Install:
 
-📌 - Launch the builder and start a new form project to create a form.
-Make use of AI-powered recommendations to automatically create pertinent form fields according to your defined criteria and objectives.
+      Please follow the guide: Integrate the Form Builder as instructed.
+      Verify Dependencies: Confirm all required components are installed.
 
-📌 - Configure Your Form: Adjust field settings by choosing the proper validation rules and input constraints that the AI suggests.
-Modify the form's behavior and layout settings to meet your unique needs.
+📌 -  Launch Builder: Start a new project.
+          
+      Use AI Suggestions: Input the purpose of your form for field recommendations.
 
-📌 - Publish and Share: To make your form available, publish it after it has been modified and is ready.
+📌 -  Configure Your Form:
 
-📌 - Use a variety of platforms to distribute the form, including email, social media, and website embedding.
+     Set Validation: Apply AI-suggested rules.
+     Customize Layout: Adjust layout and settings.
 
-📌 - To monitor and optimize form performance indicators and user interactions, access the analytics dashboard.
-Utilize the data's insights to inform changes and raise the effectiveness of the form.
+📌 - Publish: Make the form live.
+         
+     Distribute: Share via email, social media, or embed on your site.
+
+
+📌 - Track Performance: Review analytics.
+     
+     Adjust: Improve based on insights.
+
+📌 - To monitor and optimize form performance indicators and user interactions, access the analytics dashboard. 
+     
+     Utilize the data's insights to inform changes and raise the effectiveness of the form.
